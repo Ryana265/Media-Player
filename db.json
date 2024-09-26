@@ -1,0 +1,134 @@
+{
+  "allVideos": [
+    {
+      "id": "3",
+      "caption": "Anuv Jain - HUSN",
+      "url": "https://i.scdn.co/image/ab67616d0000b2730d3449f333a83a25feb423f8",
+      "link": "https://www.youtube.com/embed/gJLVTKhTnog"
+    },
+    {
+      "id": "5",
+      "caption": "Ranjha |Shershaah",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCjqe-s6qNoLZQ9hgFSe3eKJGV40DgLZHM_g&s",
+      "link": "https://www.youtube.com/embed/DB3D-mtWR0c"
+    },
+    {
+      "id": "6",
+      "caption": "Illahi - Yeh Jawaani Hai Deewani",
+      "url": "https://i.scdn.co/image/ab67616d00001e02707ea5b8023ac77d31756ed4",
+      "link": "https://www.youtube.com/embed/6w67NOaRe-w"
+    },
+    {
+      "id": "12",
+      "caption": "Anuv Jain - JO TUM MERE HO",
+      "url": "https://c.saavncdn.com/401/Jo-Tum-Mere-Ho-Hindi-2024-20240731053953-500x500.jpg",
+      "link": "https://www.youtube.com/embed/ilNt2bikxDI"
+    }
+  ],
+  "history": [
+    {
+      "caption": "Mast Magan FULL Video Song | 2 States | Arijit Singh | Arjun Kapoor, Alia Bhatt",
+      "link": "https://www.youtube.com/embed/xitd9mEZIHk",
+      "timeStamp": "09/22/2024, 11:59:41 PM",
+      "id": 21
+    },
+    {
+      "caption": "Anuv Jain - HUSN",
+      "link": "https://www.youtube.com/embed/gJLVTKhTnog",
+      "timeStamp": "09/23/2024, 11:27:32 AM",
+      "id": 35
+    },
+    {
+      "caption": "Ranjha |Shershaah",
+      "link": "https://www.youtube.com/embed/DB3D-mtWR0c",
+      "timeStamp": "09/23/2024, 04:28:36 PM",
+      "id": 37
+    },
+    {
+      "caption": "Ranjha |Shershaah",
+      "link": "https://www.youtube.com/embed/DB3D-mtWR0c",
+      "timeStamp": "09/23/2024, 04:40:38 PM",
+      "id": 38
+    },
+    {
+      "caption": "Anuv Jain - GUL (Studio)",
+      "link": "https://www.youtube.com/embed/SmaY7RfBgas",
+      "timeStamp": "09/23/2024, 04:40:40 PM",
+      "id": 39
+    },
+    {
+      "caption": "Anuv Jain - ALAG AASMAAN",
+      "link": "https://www.youtube.com/embed/vA86QFrXoho",
+      "timeStamp": "09/23/2024, 04:40:43 PM",
+      "id": 40
+    },
+    {
+      "caption": "Anuv Jain - ALAG AASMAAN",
+      "link": "https://www.youtube.com/embed/vA86QFrXoho",
+      "timeStamp": "09/25/2024, 04:08:29 PM",
+      "id": 41
+    },
+    {
+      "caption": "Anuv Jain - JO TUM MERE HO",
+      "link": "https://www.youtube.com/embed/ilNt2bikxDI",
+      "timeStamp": "09/25/2024, 05:04:32 PM",
+      "id": 42
+    },
+    {
+      "caption": "Anuv Jain - HUSN",
+      "link": "https://www.youtube.com/embed/gJLVTKhTnog",
+      "timeStamp": "09/25/2024, 05:07:27 PM",
+      "id": 43
+    },
+    {
+      "caption": "Anuv Jain - JO TUM MERE HO",
+      "link": "https://www.youtube.com/embed/ilNt2bikxDI",
+      "timeStamp": "09/25/2024, 05:22:49 PM",
+      "id": 44
+    },
+    {
+      "caption": "Ranjha |Shershaah",
+      "link": "https://www.youtube.com/embed/DB3D-mtWR0c",
+      "timeStamp": "09/25/2024, 05:30:44 PM",
+      "id": 45
+    },
+    {
+      "caption": "ARM",
+      "link": "https://www.youtube.com/embed/TWQjWLwY9ZE",
+      "timeStamp": "09/25/2024, 09:42:49 PM",
+      "id": 46
+    },
+    {
+      "caption": "Illahi - Yeh Jawaani Hai Deewani",
+      "link": "https://www.youtube.com/embed/6w67NOaRe-w",
+      "timeStamp": "09/26/2024, 11:48:47 AM",
+      "id": 47
+    },
+    {
+      "caption": "Anuv Jain - JO TUM MERE HO",
+      "link": "https://www.youtube.com/embed/ilNt2bikxDI",
+      "timeStamp": "09/26/2024, 03:45:54 PM",
+      "id": 48
+    }
+  ],
+  "category": [
+    {
+      "id": 2,
+      "categoryName": "Anuv Jain",
+      "allVideos": [
+        {
+          "id": "6",
+          "caption": "Illahi - Yeh Jawaani Hai Deewani",
+          "url": "https://i.scdn.co/image/ab67616d00001e02707ea5b8023ac77d31756ed4",
+          "link": "https://www.youtube.com/embed/6w67NOaRe-w"
+        },
+        {
+          "id": "5",
+          "caption": "Ranjha |Shershaah",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCjqe-s6qNoLZQ9hgFSe3eKJGV40DgLZHM_g&s",
+          "link": "https://www.youtube.com/embed/DB3D-mtWR0c"
+        }
+      ]
+    }
+  ]
+}
